@@ -1,0 +1,7 @@
+{
+  "name": "YGBM KONEKSI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
